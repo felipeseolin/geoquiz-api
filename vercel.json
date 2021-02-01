@@ -1,8 +1,0 @@
-{
-  "name": "geoquiz-api",
-  "version": 2,
-  "env": {
-    "MONGODB_URI": "@geoquiz-mongodb-uri"
-  }
-}
-
